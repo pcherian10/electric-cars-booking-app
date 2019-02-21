@@ -22,3 +22,14 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Users can rent other user's cars.
+Users can add cars to be rented out.
+
+Cars - 
+    Category
+    Make
+    Model
+    Year
+    Daily Rental Price
+    
